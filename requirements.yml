@@ -4,7 +4,7 @@ roles:
     version: 6.1.0
   - name: christiangda.awscli
     version: 1.0.2
-  - name: hristiangda.awscli_configure
+  - name: christiangda.awscli_configure
     version: 0.0.5
   - name: diodonfrost.terraform
     version: 1.6.1
